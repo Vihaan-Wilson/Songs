@@ -1,0 +1,29 @@
+h1{
+    color:red;
+}
+
+.song1{
+    background-color:rgb(255, 81, 0);
+    display:flex;
+    justify-content:space-between;
+}
+.song2{
+    background-color:rgb(255, 153, 0);
+    display:flex;
+    justify-content:space-between;
+}
+.song3{
+    background-color:rgb(107, 84, 209);
+    display:flex;
+    justify-content:space-between;
+}
+.song4{
+    background-color:blanchedalmond;
+    display:flex;
+    justify-content:space-between;
+}
+.song5{
+    background-color:blanchedalmond;
+    display:flex;
+    justify-content:space-between;
+}
